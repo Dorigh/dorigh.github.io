@@ -7,6 +7,6 @@ description: Research
 
 ## Research Page
 
-_yay_
+About my research
 
 [back](./)
