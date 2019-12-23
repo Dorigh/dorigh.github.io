@@ -1,10 +1,10 @@
 ---
-layout: default
-title: Another page
+layout: Page
+title: Reasearch
 description: This is just another page
 ---
 
-## Welcome to another page
+## Research Page
 
 _yay_
 
