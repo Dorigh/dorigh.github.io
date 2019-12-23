@@ -49,9 +49,6 @@ I am a PhD student at the University of Missouri-Columbia expected to graduate i
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
 
