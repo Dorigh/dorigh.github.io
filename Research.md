@@ -1,7 +1,8 @@
 ---
 layout: Page
 title: Reasearch
-description: This is just another page
+permalink: /[https://dorigh.github.io/Research]/
+description: Research
 ---
 
 ## Research Page
