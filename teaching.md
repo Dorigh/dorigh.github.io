@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Teaching <!-- wp:heading {"level":4} -->
+ <!-- wp:heading {"level":4} -->
 <h4><strong>Current Teaching:</strong></h4>
 <!-- /wp:heading -->
 
