@@ -13,7 +13,7 @@ I am a PhD candidate at the University of Missouri-Columbia expected to graduate
 [My CV](https://dorigh.github.io/resume/)
 
 
-[My research](./research.html)
+
 
 
 
