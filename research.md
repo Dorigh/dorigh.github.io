@@ -1,8 +1,6 @@
 ---
-title: My research
-layout: default 
-filename: research.md
---- 
+layout: default
+---
 
 ## Research Page
 
