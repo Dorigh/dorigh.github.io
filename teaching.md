@@ -7,7 +7,7 @@ layout: default
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>I am an instructor for two sections of Calculus III (Math 2300) this semester.</p>
+<p>I am an instructor for Calculus I and Advanced Mathematics for Engineers this semester.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
