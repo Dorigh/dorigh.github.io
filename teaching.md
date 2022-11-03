@@ -7,7 +7,8 @@ layout: default
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>I will be teaching Calculus I and Advanced Mathematics for Engineers this semester.</p>
+<p> <li>Math 1400: Precalculus</li>
+<li>Math 1520: Calculus II</li></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -17,9 +18,12 @@ layout: default
 <!-- wp:heading {"level":4} -->
 <h4><strong>Past Teaching Experiences:</strong></h4>
 <!-- /wp:heading -->
+<p>At Saint Louis University:</p>
+
+<ul><li>Math 1510: Calculus I </li><li>Math 3110: Linear Algebra for Engineers</li><li>Math 3270: Advanced Math for Engineers</li></ul>
 
 <!-- wp:paragraph -->
-<p>Here are the selected assignments listed:</p>
+<p>At University of Missouri-Columbia:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
