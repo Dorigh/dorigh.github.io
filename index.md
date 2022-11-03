@@ -16,4 +16,4 @@ I am also a faculty advisor for the student chapter of the Association for Women
 
 ### Links:
 
-[My CV](https://dorigh.github.io/resume/)
+[My CV](https://dorigh.github.io/resume.pdf)
