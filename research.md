@@ -16,7 +16,14 @@ layout: default
 
 <!-- wp:group -->
 <div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:list -->
-<ul><li><a href="https://scholar.google.com/scholar?oi=bibs&amp;cluster=5778050208423621265&amp;btnI=1&amp;hl=en">Norm retrieval and phase retrieval by projections</a> with Peter Casazza, Shani Jose and Janet Tremain- Axioms, 2017</li><li><a href="https://scholar.google.com/scholar?oi=bibs&amp;cluster=11835713362796076991&amp;btnI=1&amp;hl=en">Weak Phase Retrieval</a> with Sara Botelho-Andrade,  Peter Casazza, Shani Jose and Janet Tremain- Compressed Sensing and its Applications, 2017</li><li><a href="https://scholar.google.com/scholar?oi=bibs&amp;cluster=6718368187254700280&amp;btnI=1&amp;hl=en">Weak phase retrieval and phaseless reconstruction</a> with Sara Botello-Andrade, Peter Casazza,  Shani Jose and Janet Tremain…&nbsp;- arXiv preprint arXiv:1612.08018, 2016</li><li>"Phase retrieval by Projections" with Peter Casazza <em>in preparation</em></li><li>"Invertibility and robustness of phase retrieval" with Petros Valettas <em>in preparation</em></li></ul>
+<ul><li>
+<i>Perturbations of frames which do
+stable phase retrieval</i> with Wedad Alharbi, Daniel Freeman and Shanea Sebastian, <em> in preperation </em></li><li>  
+<i>Locality and stability for phase retrieval</i> with Wedad Alharbi, Salah Alshabhi and Daniel Freeman, <em> in preperation </em> </li><li>
+<a href= "https://arxiv.org/abs/2109.14454">Discretizing L_P norms and frame thoery</a>  with Daniel Freeman, 2021 </li><li>
+<a href="https://scholar.google.com/scholar?oi=bibs&amp;cluster=5778050208423621265&amp;btnI=1&amp;hl=en">Phase retrieval by projections in R^n requires 2n-2 projections</a> with Peter Casazza, 2020 </li><li>
+  
+<a href="https://scholar.google.com/scholar?oi=bibs&amp;cluster=5778050208423621265&amp;btnI=1&amp;hl=en">Norm retrieval and phase retrieval by projections</a> with Peter Casazza, Shani Jose and Janet Tremain- Axioms, 2017</li><li><a href="https://scholar.google.com/scholar?oi=bibs&amp;cluster=11835713362796076991&amp;btnI=1&amp;hl=en">Weak Phase Retrieval</a> with Sara Botelho-Andrade,  Peter Casazza, Shani Jose and Janet Tremain- Compressed Sensing and its Applications, 2017</li><li><a href="https://scholar.google.com/scholar?oi=bibs&amp;cluster=6718368187254700280&amp;btnI=1&amp;hl=en">Weak phase retrieval and phaseless reconstruction</a> with Sara Botello-Andrade, Peter Casazza,  Shani Jose and Janet Tremain…&nbsp;- arXiv preprint arXiv:1612.08018, 2016</li><li></li><li>"Invertibility and robustness of phase retrieval" with Petros Valettas <em>in preparation</em></li></ul>
 <!-- /wp:list --></div></div>
 <!-- /wp:group -->
 [back](./)
