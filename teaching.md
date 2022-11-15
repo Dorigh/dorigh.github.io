@@ -8,7 +8,7 @@ layout: default
 
 <!-- wp:paragraph -->
 <p> <li>Math 1400: Precalculus</li>
-<li>Math 1520: Calculus II </li></p> [Syllabus](https://dorigh.github.io/syllabus.pdf)
+<li>Math 1520: Calculus II (<a href= "https://dorigh.github.io/syllabus.pdf">syllabus</a>) </li></p> 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
