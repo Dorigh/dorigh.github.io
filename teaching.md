@@ -7,8 +7,7 @@ layout: default
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p> <li>Math 1400: Precalculus</li>
-<li>Math 1520: Calculus II (<a href= "https://dorigh.github.io/syllabus.pdf">syllabus</a>) </li></p> 
+<p> <li>Math 4930/5930: Capstone, Frame Theory and Phase Retrieval</li></p> 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -20,7 +19,7 @@ layout: default
 <!-- /wp:heading -->
 <p>At Saint Louis University:</p>
 
-<ul><li>Math 1510: Calculus I </li><li>Math 3110: Linear Algebra for Engineers</li><li>Math 3270: Advanced Math for Engineers</li></ul>
+<ul><li>Math 1400: Precalculus</li><li>Math 1510: Calculus I </li><li>Math 1520: Calculus II (<a href= "https://dorigh.github.io/syllabus.pdf">syllabus</a>)</li><li>Math 3110: Linear Algebra for Engineers</li><li>Math 3270: Advanced Math for Engineers</li><li>Math 3550: Differential Equations</li><li>Math 4550: Non-linear Dynamics and Chaos</li></ul>
 
 <!-- wp:paragraph -->
 <p>At University of Missouri-Columbia:</p>
