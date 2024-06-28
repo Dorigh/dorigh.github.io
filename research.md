@@ -17,7 +17,8 @@ layout: default
 <!-- wp:group -->
 <div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:list -->
 <ul><li>
-<a href="https://arxiv.org/abs/2212.13681">Stable phase retrieval and perturbations of frames</a> with Wedad Alharbi, Daniel Freeman and Shanea Sebastian, <em> to appear in the Proceedings of the American Mathematical Society </em></li><li>  
+<a href="https://arxiv.org/pdf/2402.03237">Declipping and the recovery of vectors from saturated measurments</a> with Wedad Alharbi, Daniel Freeman, Brody Johnson and NL Randrianarivony, 2024 </li><li> 
+<a href="https://www.ams.org/journals/bproc/2023-10-31/S2330-1511-2023-00185-3/S2330-1511-2023-00185-3.pdf">Stable phase retrieval and perturbations of frames</a> with Wedad Alharbi, Daniel Freeman, Clair Lois and Shanea Sebastian, Proceedings of the American Mathematical Society, 2023</li><li>  
 <a href="https://arxiv.org/abs/2210.03886">Locality and stability for phase retrieval</a> with Wedad Alharbi, Salah Alshabhi and Daniel Freeman, 2022</li><li>
 <a href="https://www.sciencedirect.com/science/article/pii/S0022247X22008605">Discretizing L_P norms and frame theory</a> with Daniel Freeman, 2021 </li><li>
 <a href="https://scholar.google.com/scholar?oi=bibs&amp;cluster=5778050208423621265&amp;btnI=1&amp;hl=en">Phase retrieval by projections in R^n requires 2n-2 projections</a> with Peter Casazza, 2020 </li><li>
